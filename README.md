@@ -1,3 +1,3 @@
 # focus-anno
-# Overview
+## Overview
 This is my project for Option B Computational Linguistics. It aims to perform automatic focus annotation. To this end, it is designed with reference to the Stanford Question Answering Dataset 1.1 (SQuAD) and extracts data that is constituted by a question and its corresponding answer which is further embedded in a contextual sentence. Building on the dataset, it subsequently fine-tunes pre-trained large language models, including BERT (Bidirectional Encoder Representations from Transformers), RoBERTa (Robustly Optimized BERT Approach), and DeBERTa (Decoding-enhanced BERT with disentangled attention).
